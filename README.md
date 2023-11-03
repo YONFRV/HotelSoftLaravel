@@ -47,7 +47,7 @@ Make sure you have the following requirements in your development environment:
 ## Installation and Use
 - Clone the repository from GitHub:
 
-      git clone https://github.com/tu-usuario/tu-repositorio.git
+      git clone https://github.com/YONFRV/HotelSoftLaravel
 
 - Install dependencies using Composer:
       
